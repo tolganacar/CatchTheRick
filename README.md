@@ -1,4 +1,5 @@
 # CatchTheRick
+There are 9 Rick characters standing in a closed row. It opens randomly and you try to click it.
 # Home Page
 ![image](https://user-images.githubusercontent.com/83028055/174587598-2a712b00-3106-48bf-b4b3-286df8929600.png)
 # The Game Started
